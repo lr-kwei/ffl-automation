@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "poetic-camp-175720",
+  "private_key_id": "bf5ed47de0f2c9741cbf220b1da3fab0242d27c9",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCzoWmKRcbDnf17\nJ+zGaOKLsBU5XsT2pnfDTsrYhz9DqCjg66XuKLR75mR7ZtCtssmwHle48dzWqVAl\nahPhdqnJETw3Cy4uzvvovYrsV8g4jjuxpGeKh+IJRv04+FqlsdCoxZvmc2RxkQiM\nUOlVuRXfV04NCwAVaKrMtFxSmOFOpT54f4C1V3OZTq1eeeGLCq23JztFFJgs0fn0\nLeXU4jvZ11VqjPxlT0dUXYQqT5jVIbhyUNDERDkMMNxHoa+zbW/eYRXCddZOsMOD\n9/ueB/Jsj8imh0cOxzQY0GO4dCCr4wiUgzN0WHVW3/LPGgeoYsTt4N2fWc3hy7in\nIM1smTPVAgMBAAECggEAAWv96J8IRXye6MZmYKSsZGQqqtdV8kjbilN5lhCt/sRa\nPHuJBvNSCGgItBRagwF3CLqYwalCcP2KmZ03FpIIooONKTdgsHSpeExlyNyiBFaV\n4OBXBHjyYFXsQ7LtjsGzT96ujvqrWR3HhkrOqgPKyUeI4eAMKl83eOLVlz7IC8YO\nLJMS0LNKXxlP5spYN9tWQhLKXdutXHTbUKxbSobwQFdX16owdcfnsSSJ8qRUdxzD\nzQteEoEdAb5/mof7tq2WEBAXDh2oilIlbjM0CDJznBa2LdR3bmWRZQS4qdO6pF1q\nwkjEKJ0UdsfTkYXLYl6Nljcb+y36F3Ap8ANRlNZJ6QKBgQDexs/PeWuI2Wr9x5hB\nfAvwHpjHHfI1kQzPAdT4HM2MK8zEEwY4iw+Ej4DupIpWDvHJETWbAhwqRsWiVR8P\nwCfkuMBvxpmi0wBryJ7NfQJAdZfou9OxJ2V9cPpT8mh98u3slUoE8ABjkKXtCd2B\nINLTx/VPMoaiuXyDdNKMj4NIjQKBgQDOa11VTx2Z3wMlXEflyeDzbla371kOCBuk\nVNaKVmEKWEAFbrR5mK5RHlEgmT/27Y2eSy+h5ZixM3clNLgMUOM4KpxFpqCI3iwV\n7SARL3cMIX805o7wKEbMNA37w2Jh56/V8eL4yRGVurujo78ZwbO98GcUY7dGlppH\nvRkIZ7K6aQKBgAb4y9ofX6kpvLpye6ZY/nqmSnu4yTK59l+oHAUjyZ8AY+ki+0fb\nukGYyB0v0xB8aT60pivSthTwoBDDfzRb/COhUIxu97HrzpCQ979QkTh5NabX8fkS\nVY/GcF8eL/z5FE8aIPXkmO6EwVyYuXDoGRD9qgSvfR0sluP6TPiPKTmlAoGBAKJp\njZUq28KO2t3RfuyJbAp9PZQZqbtFm+IvsmJEVrQZ/b2Ifk3SWQ2QSgrZKZ/zB2OO\nCttaWErMkKlgkpN2LWGq/Sw8T8GA9bUGzx1WeFe+H2WTJtJFDndrWblG4Sjhb9Np\nL8nKAqEJvMujciAk7XS8K466aqEKrDdXzNN1LAZJAoGAUsXUcGORt5vORDDJIizi\nWqliB8NqFywyqcvyjExM+cuRqWKIwdudIaH7OQVmPyQpGiF+WCqShjSZ6SVje9KW\nDM4zo5Obu+Ge8rrPj289t/FE4VilG+kwUYCLZtz8ikWIgucAwQ7538FiFT/RbILv\n+hinPiP0qhRkKJ4nspfBV6k=\n-----END PRIVATE KEY-----\n",
+  "client_email": "sship-360@poetic-camp-175720.iam.gserviceaccount.com",
+  "client_id": "100845099283715561011",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/sship-360%40poetic-camp-175720.iam.gserviceaccount.com"
+}
