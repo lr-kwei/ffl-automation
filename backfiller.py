@@ -100,8 +100,8 @@ def admin_login(driver):
     admin_pw = driver.find_element_by_id("user_password")
     login_btn = driver.find_element_by_class_name("btn")
 
-    admin_u.send_keys("kwei")
-    admin_pw.send_keys("Welcome#15")
+    admin_u.send_keys("ldap")
+    admin_pw.send_keys("redacted")
     login_btn.click()
 
 
